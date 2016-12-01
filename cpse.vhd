@@ -22,6 +22,8 @@ a
 a
  -s
  
+ elervfr
+ 
 
 architecture test of sade_TB is
     
