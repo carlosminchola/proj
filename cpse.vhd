@@ -1,22 +1,16 @@
- sfsdlibrary ieee;
+library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_arith.all;
 use ieee.std_logic_unsigned.all;
-use work.crf158_sade_pkg.all; f g
+use work.crf158_sade_pkg.all;
 
 entity sade_TB is 
 end sade_TB;
 av´sd
 
-*******vge
-rgbgn h
 
--------avsdvsv
-111111
+----
 
------
-
--------
 architecture test of sade_TB is
     
     
