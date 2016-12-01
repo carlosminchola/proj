@@ -3,7 +3,6 @@ use ieee.std_logic_1164.all;
 use ieee.std_logic_arith.all;
 use ieee.std_logic_unsigned.all;
 use work.crf158_sade_pkg.all;
-s,fm,sdbf
 
 entity sade_TB is 
 end sade_TB;´vs-svrtbr
@@ -11,12 +10,8 @@ end sade_TB;´vs-svrtbr
 d
 -----psjbv`jhwsbj
 
--------
-111111
+----
 
------
-
--------
 architecture test of sade_TB is
     
     
