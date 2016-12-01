@@ -19,6 +19,9 @@ a
 
 ----
 --------
+a
+ -s
+ 
 
 architecture test of sade_TB is
     
