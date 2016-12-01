@@ -12,6 +12,8 @@ end sade_TB;
 a
  -s
  
+ elervfr
+ 
 
 architecture test of sade_TB is
     
