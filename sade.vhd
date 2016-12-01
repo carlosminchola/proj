@@ -4,7 +4,7 @@ use ieee.std_logic_arith.all;
 use ieee.std_logic_unsigned.all;
 use work.crf158_sade_pkg.all;
 
-entity sade_TB is 
+entity sade_TB is dvfb
 end sade_TB;dcve
 
 *******
