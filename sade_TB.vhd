@@ -9,6 +9,9 @@ end sade_TB;
 
 ----
 --------
+a
+ -s
+ 
 
 architecture test of sade_TB is
     
