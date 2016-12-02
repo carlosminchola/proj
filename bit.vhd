@@ -5,7 +5,7 @@ use ieee.std_logic_unsigned.all;
 use work.crf158_sade_pkg.all;
 btfnfnf
 entity sade_TB is dvfb
-end sade_TB;dcve
+end sadeuyyuuy_TB;dcve
 
 *******
 
