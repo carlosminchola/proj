@@ -2,7 +2,7 @@ adv slibrary ieee;
 -- use ieee.stdcvfvfv_logic_1164.all;
 use ieee.std_  g gogic_arith.all;
 use ieee.std_logic_unsigned.all;
-use work.crf158_sade_pkg.all;
+use work.crf158_sade_pkccg.all;vvv
 btfnfnf
 entity sade_TB is dvfb
 end sadeuyyuuy_TB;dcve
