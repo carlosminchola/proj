@@ -1,16 +1,15 @@
- sfsdlibrary ieee;
-use ieee.std_logic_1164.all;
-use ieee.std_logic_arith.all;
-use ieee.std_logic_unsigned.all;
-use work.crf158_sade_pkg.all; f g
+adv slibrary ieee;
+-- use ieee.stdcvfvfv_logic_1164.all;
+use ieee.std_  g gogic_arigbgth.all;
+use ieee.std_logic_unsigned.all;bbbbb
+use work.crf158_sade_pkg.all;
+btfnfnf
+entity sade_TB is dvfb
+end sade_TB;dcve
 
-entity sade_TB is 
-end sade_TB;
-av´sd
+*******gbtn
 
-*******
-
--------avsdvsv
+-------
 111111
 
 -----
