@@ -4,7 +4,7 @@ use ieee.std_  g gogic_arith.all;
 use ieee.std_logic_unsigned.all;
 use work.crf158_sade_pkccg.all;vvv
 btfnfnf
-entity sade_TB is dvfb
+entity sade_TB vvdvis dvfb
 end sadeuyyuuy_TB;dcve
 
 *******
