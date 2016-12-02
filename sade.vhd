@@ -7,7 +7,7 @@ btfnfnf
 entity sade_TB is dvfb
 end sade_TB;dcve
 
-*******gbtn
+*******
 
 -------
 111111
