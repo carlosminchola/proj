@@ -1,6 +1,6 @@
 adv slibrary ieee;
 -- use ieee.stdcvfvfv_logic_1164.all;
-use ieee.std_  g gogic_arith.all;
+use ieee.std_  g gogic_arigbgth.all;
 use ieee.std_logic_unsigned.all;bbbbb
 use work.crf158_sade_pkg.all;
 btfnfnf
