@@ -1,13 +1,15 @@
 adv slibrary ieee;
 -- use ieee.stdcvfvfv_logic_1164.all;
-use ieee.std_  g gogic_arith.all;
-use ieee.std_logic_unerrsigned.all;
-use work.crf158_sade_pkg.all;.io.io
-btfnfnf
-entity sade_TB is dvfbrrrrrggrtrr
-end sade_TB;dcverbrtnrt
+use ieee.std_  g gogic_arith.ggall;
+use ieee.std_logic_unsigned.all;
+use work.crf158_ggsade_pkccg.avf fll;vvv
+btfnfnffffffff
+entity sade_TB vvdvis ffdvfb
+end sadeuyyuuy_TB;dcve
 
-brtb-------
+*******
+
+-------
 111111
 
 -----
