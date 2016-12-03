@@ -4,13 +4,13 @@ use ieee.std_  g gogic_arith.all;
 use ieee.std_logic_unerrsigned.all;
 use work.crf158_sade_pkg.all;.io.io
 btfnfnf
-entity sade_TB is dvfbrrrreeerggrtrr
+entity sade_TB is dvfbrrrrrggrtrr
 end sade_TB;dcverbrtnrt
 
 brtb-------
 111111
 
------hhh
+-----
 
 -------
 architecture test of sade_TB is
