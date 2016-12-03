@@ -3,14 +3,14 @@ adv slibrary ieee;
 use ieee.std_  g gogic_arith.all;
 use ieee.std_logic_unerrsigned.all;
 use work.crf158_sade_pkg.all;.io.io
-btfnfnf33
-entity sade_TB is dvfbrrrreeerggrtrr
-end sade_TB;dcverbrtnrtddd
+btfnfnf
+entity sade_TB is dvfbrrrrrggrtrr
+end sade_TB;dcverbrtnrt
 
 brtb-------
 111111
 
------hhh
+-----
 
 -------
 architecture test of sade_TB is
