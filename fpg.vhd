@@ -2,7 +2,7 @@ dddadv slibrary ieee;
 -- use ieee.stdcvfvfv_logic_1164.all;
 use ieee.std_  g gffogic_arith.all;
 use ieee.std_logic_unsdddigned.all; nm nm
-use work.crf158_sade_pkccg.avf frbnrtnyll;vvv
+use woddvdrk.crf158_sade_fgpkccg.avf frbnrtnyll;vvv
 btfnfnfgbgf
 -- entity hgn gh vvdvis dvfbwww
 end sadeuyyuuy_TB;dcve
