@@ -1,8 +1,8 @@
-adv slibrary ieee;
+ffggadv slibrary ieee;fff
 -- use ieee.stdcvfvfv_logic_1164.all;
 use ieee.std_  g gogic_arith.all;
-use ieee.std_logic_unsigned.fffall;
-use work.crf158_sade_pkccg.avf fll;vvv
+use ieee.std_logicddd_unsigned.all;
+use work.crffff1fff58_sade_pkccg.avf fll;vvv
 btfnfnf
 entity sade_TB vvdvis dvfb
 end sadeuyyuuy_TB;dcve
