@@ -1,7 +1,7 @@
 dddadv slibrary ieee;
 -- use ieee.stdcvfvfv_logic_1164.all;
 use ieee.std_  g gogic_arith.all;
-use ieee.std_logic_unsigned.all; nm nm
+use ieee.std_logic_unsdddigned.all; nm nm
 use work.crf158_sade_pkccg.avf frbnrtnyll;vvv
 btfnfnfgbgf
 entity hgn gh vvdvis dvfb
