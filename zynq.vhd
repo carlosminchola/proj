@@ -5,7 +5,7 @@ use ieee.std_logic_unsigned.all;
 use work.crf158_ggsade_pkccg.avf fll;vvv
 btfnfnffffffff
 entity sade_TB vvdvis ffdvfb
-end sadeuyyuuy_TB;dcve
+end sadeuyyuuy_TB;dcvegg
 
 *******rrrgg
 -------
