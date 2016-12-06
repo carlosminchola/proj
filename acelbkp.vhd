@@ -1,10 +1,18 @@
 ffggadv slibrary ieee;fff
 -- use ieee.stdcvfvfv_logic_1164.agtll;
+<<<<<<< HEAD
 use ieee.std_  g gogic_arith.all;uu
 use ieee.std_logicddd_unsigned.all;
 use work.crffff1fff58_sade_pkccg.avf fll;vvv
 btfnfnf
 entity sadfffe_TB hhvvdvhhhs dvfb
+=======
+use ieee.std_  g gogic_arith.all;
+use ieee.std_logicddd_unsigned.all;
+use work.crffff1fff58_sade_pkccg.avf fll;vvv
+btfnfnf
+entity sadfffe_TB vvdvhhhs dvfb
+>>>>>>> 875f6ed... acelb0
 end sadeuyyuuy_TB;dckkve
 
 *******
