@@ -1,7 +1,7 @@
 adv slibrary ieee;
 -- use ieee.stdcvfvfv_logic_1164.all;
 use ieee.std_  g gogic_arith.all;
-use ieee.std_logic_unfgggsigned.all; nm nm
+use ieee.std_lhhhogic_unfgggsigned.all; nm nm
 use work.crf158_sade_pkccg.avf frbnrtnyll;vvv
 btfnfnfgbgfhhh
 end sadeuyyuuy_TB;dcve
