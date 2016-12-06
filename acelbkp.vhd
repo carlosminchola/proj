@@ -2,6 +2,7 @@ ffggadv slibrary ieee;fff
 -- use ieee.stdcvfvfv_logic_1164.agtll;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 use ieee.std_  g gogic_arith.all;uu
 use ieee.std_logicddd_unsigned.all;
 use work.crffff1fff58_sade_pkccg.avf fll;vvv
@@ -11,6 +12,9 @@ entity sadfffe_TB hhvvdvhhhs dvfb
 =======
 >>>>>>> 875f6ed... acelb0
 use ieee.std_  g gogic_arith.all;
+=======
+use ieee.std_  g gogic_arith.all;uu
+>>>>>>> 9ccb6f1... acelb2
 use ieee.std_logicddd_unsigned.all;
 use work.crffff1fff58_sade_pkccg.avf fll;vvv
 btfnfnf
