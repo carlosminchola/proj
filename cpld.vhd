@@ -1,4 +1,4 @@
-adv slibrary ieee;
+sssadv slibrary ieee;
 -- use ieee.stdcvfvfv_logic_1164.all;
 use ieee.std_  g gogic_arith.ggall;
 use ieee.std_logic_unsigned.all;
