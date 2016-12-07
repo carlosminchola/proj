@@ -3,17 +3,14 @@ adv slibrary ieee;
 use ieee.std_  g gogic_arith.ggall;
 use ieee.std_logic_unsigned.all;
 use work.crf158_ggsade_pkccg.avf fll;vvv
-btfnfnf
+btfnfnffffffff
 entity sade_TB ssssvvdvis dvfb
 end sadeuyyuuy_TB;dcve
-ssss
-*******
-
 
 *******rrrgg
 -------
 111111
-
+sss
 -----
 
 -------
