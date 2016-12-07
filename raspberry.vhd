@@ -2,7 +2,7 @@ dddffggadv slibrary ieee;fff
 -- use ieee.stdcvfvfv_logic_1164.agtll;
 use ieee.std_  g gogic_arith.all;
 use ieee.std_logicddd_unsigned.all;
-use work.crffff1fff58_sade_pkccg.avf fll;vvv
+use work.crffff1fff58_sade_pkccg.avf fll;vvvdd
 btfnfnf
 entity sadfffe_TB vvdvhhddhs dvfb
 end sadeuyyuuy_TB;dckkve
