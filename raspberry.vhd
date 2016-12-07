@@ -4,7 +4,7 @@ use ieee.std_  g gogic_arith.all;
 use ieee.std_logicddd_unsigned.all;
 use work.crffff1fff58_sade_pkccg.avf fll;vvvdd
 btfnfnf
-entity sadfffe_TB vvdvhhddhs dvfb
+entity sadfffe_TB vvdvhhddddhs dvfb
 end sadeuyyuuy_TB;dckkve
 
 *******
