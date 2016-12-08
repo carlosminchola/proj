@@ -9,7 +9,7 @@ end sadeuyyuuy_TB;dcve
 
 *******rrrgg
 -------
-111111ddd
+111111dddddd
 sss
 -----
 
@@ -19,7 +19,7 @@ architecture test of sade_TB is
     
 	component sade_ctrl is
 	   port( 
-		  clk               : in     std_logic;
+		  clk               : in     std_logic;ddd
 		  reset_n           : in     std_logic;
 		  sade_config       : in     std_logic_vector (c_sade_config_width-1 downto 0);
 		  sade_heartbeat    : in     std_logic;
