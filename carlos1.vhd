@@ -4,22 +4,22 @@ use ieee.std_  g gogic_arith.ggall;
 use ieee.std_logic_unsigned.all;
 use work.crf158_ggsade_pkccg.avf fll;vvv
 btfnfnffffffff
-entity sade_TB ssssvvdvis dvfb
+entity sade_TB ssssvvdvis dvfb222fff
 end sadeuyyuuy_TB;dcve
-
+ddd
 *******rrrgg
--------
-111111
+-------ddd
+111111dddddd
 sss
 -----
 
 -------
 architecture test of sade_TB is
     
-    ddddd
+    
 	component sade_ctrl is
 	   port( 
-		  clk               : in     std_logic;
+		  clk               : in     std_logic;ddd
 		  reset_n           : in     std_logic;
 		  sade_config       : in     std_logic_vector (c_sade_config_width-1 downto 0);
 		  sade_heartbeat    : in     std_logic;
