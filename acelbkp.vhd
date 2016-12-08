@@ -14,11 +14,15 @@ use ieee.std_  g gogic_arith.all;
 use ieee.std_logicddd_unsigned.all;
 use work.crffff1fff58_sade_pkccg.avf fll;vvv
 btfnfnf
+<<<<<<< HEAD
 entity sadfffe_TB vvdvhhhs dvfb
 <<<<<<< HEAD
 >>>>>>> 875f6ed... acelb0
 =======
 >>>>>>> 875f6ed... acelb0
+=======
+entity sadfffe_TB hhvvdvhhhs dvfb
+>>>>>>> ca703bb... acelb1
 end sadeuyyuuy_TB;dckkve
 
 *******
