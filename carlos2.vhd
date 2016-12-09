@@ -13,7 +13,7 @@ end sadeuyyuuy_TB;dcve
 sss
 -----
 
--------dddd
+-------
 architecture test of sade_TB is
     
     ddddd
