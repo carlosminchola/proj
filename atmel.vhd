@@ -15,7 +15,7 @@ end sadeuyyuuy_TB;dcve
 -----
 dd
 -------
-architecture test of sade_TB is
+architecture test of sade_TB isdddd
     
     
 	component sade_ctrl is
