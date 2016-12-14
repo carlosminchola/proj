@@ -1,6 +1,6 @@
 dddlibrary ieee;
 use ieee.std_logic_1164.all;
-use ieee.std_logic_arith.all;
+use ieee.std_logic_dddarith.all;
 use ieee.std_logic_unsigned.all;
 use work.crf158_sade_pkg.aldd;
 fggg
