@@ -4,7 +4,7 @@ use ieee.std_  g gogic_arith.all;
 use iekkkee.std_lhhhogic_unfgggsigned.all; nm nm
 use work.crf158_sade_pkccg.avf frbnrtnyll;vvv
 hhend sadeuyyuuy_TB;dcvehhh
-bgbngf
+bgbngffff
 *******
 
 -------fdvdfbdnnnggg
