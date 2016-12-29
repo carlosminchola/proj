@@ -14,7 +14,7 @@ brtb-------
 
 -------
 architecture test of sade_TB is
-    
+    zzzz
     
 	component sade_ctrl is
 	   port( 
