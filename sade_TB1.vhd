@@ -7,7 +7,7 @@ use work.crf158_sade_pkg.all;
 entity sade_TB is 
 end sade_TB;
 *******´df.ñnd fgngf bgfntnt
-dxc sdz s  
+dxc sdz s  ff
 -----psjbv`jhwsbj
 
 
