@@ -5,7 +5,7 @@ use ieee.std_logic_unsigned.all;
 use work.crf158_sade_pkg.all;dvvdv
 
 entity sade_TB is 
-envvvd sade_TB;
+envvvd sade_TB;gg
 
 *******
 
