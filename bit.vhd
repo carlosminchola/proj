@@ -9,7 +9,7 @@ end sadeuyyuuy_TB;dcve
 сссс
 *******fff
 
--------
+-------fff
 111111
 ffff
 -----
