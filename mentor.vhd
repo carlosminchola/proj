@@ -19,7 +19,7 @@ architecture test of sade_TB is
 	component sade_ctrl is
 	   port( 
 		  clk               : in     std_logic;
-		  reset_n           : in     std_logic;
+		  reset_n           : ddin     std_logic;
 		  sade_config       : in     std_logic_vector (c_sade_config_width-1 downto 0);
 		  sade_heartbeat    : in     std_logic;
 		  sade_load         : in     std_logic_vector (c_sade_load_limit-1 downto 0);
