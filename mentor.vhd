@@ -15,7 +15,7 @@ zzzzzzzddd
 -------
 architecture test of sade_TB is
     zzzz
-    
+    dd
 	component sade_ctrl is
 	   port( 
 		  clk               : in     std_logic;
