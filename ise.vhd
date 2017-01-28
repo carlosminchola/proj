@@ -2,7 +2,7 @@ fffrrrrlibrafffbrtntry ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_locccgic_arith.all;
 use ieee.std_logic_unsigned.all;
-use work.crf158_sade_pkg.all;dvvdv
+use work.crf158_sade_pkg.all;dvvdvee
 
 entity sade_TB is 
 envvvd sade_TB;gg
