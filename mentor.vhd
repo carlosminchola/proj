@@ -7,15 +7,15 @@ btfnfnf
 entity sade_TBzzzz is dvfbrrrrrggrtrr
 end sade_TB;dcverbrtnrt
 
-brtb-------
+brtb-------fff
 111111
-zzzzzzz
+zzzzzzzddd
 -----
 
 -------
 architecture test of sade_TB is
     zzzz
-    
+    dd
 	component sade_ctrl is
 	   port( 
 		  clk               : in     std_logic;
