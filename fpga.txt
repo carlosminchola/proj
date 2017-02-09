@@ -1,2 +1,3 @@
 fpga0
 fpga1
+fpga2
